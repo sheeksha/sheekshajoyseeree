@@ -30,4 +30,4 @@ Credits:
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
-My website link is : https://sheeksha.github.io/sheekshajoyseeree.github.io/
+My website link is : https://sheeksha.github.io/sheekshajoyseeree/
